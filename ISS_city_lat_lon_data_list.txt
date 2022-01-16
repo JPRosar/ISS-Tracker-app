@@ -1,0 +1,4 @@
+Rio de Janeiro,Brazil,-22.925,-43.225
+Hong Kong,Hong Kong,22.305,114.185
+Sydney,Australia,-33.92,151.1852
+Waco,United States,31.5597,-97.1882
